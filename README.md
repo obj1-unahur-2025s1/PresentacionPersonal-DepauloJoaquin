@@ -4,10 +4,12 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Joaquin Depaulo
+- Vivo en Villa Tesei
+- Tengo 21 años
+
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- No tengo un genero preferido de musica pero me gusta mucho el rap de los 90s
+- Soy Team Verano
